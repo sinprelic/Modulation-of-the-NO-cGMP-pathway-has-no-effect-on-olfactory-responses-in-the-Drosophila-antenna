@@ -10,6 +10,10 @@
 
 ## Publication info
 
+[![Citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fimpact-ui.frontiersin.org%2Fapi%2FarticleTotals%3FarticleId%3D1180798&query=%24.totalCitations&label=Citations&color=005B9A)](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2023.1180798/full) 
+[![Views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fimpact-ui.frontiersin.org%2Fapi%2FarticleTotals%3FarticleId%3D1180798&query=%24.totalViews&label=Views&color=005B9A)](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2023.1180798/full) 
+[![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fimpact-ui.frontiersin.org%2Fapi%2FarticleTotals%3FarticleId%3D1180798&query=%24.totalDownloads&label=Downloads&color=005B9A)](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2023.1180798/full) 
+
 Published in ***Frontiers in Cellular Neuroscience***, 
 specialty section *Cellular Neurophysiology*, part of research topic ***Insights in Cellular Neurophysiology: 2022***.
 
@@ -26,6 +30,7 @@ specialty section *Cellular Neurophysiology*, part of research topic ***Insights
 - [Journal](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2023.1180798/full)
 - [Supplementary Data](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2023.1180798/full#supplementary-material)
 - [Data repository](https://doi.org/10.17617/3.9V6MOM)
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/37305438/)
 
 ## Summary of study data deposited at [EDMOND repository](https://doi.org/10.17617/3.9V6MOM)
 
