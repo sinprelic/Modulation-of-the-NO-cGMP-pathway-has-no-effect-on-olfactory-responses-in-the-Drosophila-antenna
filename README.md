@@ -1,6 +1,6 @@
 # Modulation of the NO-cGMP pathway has no effect on olfactory responses in the *Drosophila* antenna
 
-### Sinisa Prelic<sup>1</sup>, Merid N. Getahun<sup>2</sup>, Sabine Kaltofen<sup>1</sup>, Bill S. Hansson<sup>1</sup>, Dieter Wicher<sup>1, *</sup>
+### Sinisa Prelic<sup>1</sup>, Merid N. Getahun<sup>2</sup>, Sabine Kaltofen<sup>1</sup>, Bill S. Hansson<sup>1</sup> & Dieter Wicher<sup>1, *</sup>
 
 <small>
 <sup>1</sup> Department of Evolutionary Neuroethology, Max Planck Institute for Chemical Ecology, Jena, Germany<br>
