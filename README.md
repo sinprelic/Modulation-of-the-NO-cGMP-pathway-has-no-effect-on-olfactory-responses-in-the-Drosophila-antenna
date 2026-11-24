@@ -126,9 +126,9 @@ For posterity, sources of data are also listed here in order of chronological ap
 | Max Planck Society |
 | International Max Planck Research School (IMPRS) "Chemical Communication in Ecological Systems" |
 
-| Special thanks |  |
-|---|---|
-| Silke Trautheim | Fly lab assistance (rearing and stock maintenance) |
+| Special thanks |
+|---|
+| Silke Trautheim (Fly lab assistance - rearing, stock maintenance) |
 
 ## Citation
 
