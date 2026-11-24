@@ -104,22 +104,22 @@ For posterity, sources of data are also listed here in order of chronological ap
 
 | Author | Contribution (manuscript) |
 |---|---|
-| <font color="#1F4E79"><strong>DW</strong></font>, <font color="#8B1E3F"><strong>SP</strong></font> | Conceptualization |
-| <font color="#8B1E3F"><strong>SP</strong></font> | Formal analysis |
-| <font color="#8B1E3F"><strong>SP</strong></font> | Data curation |
-| <font color="#8B1E3F"><strong>SP</strong></font> | Plotting, visualizations, figures |
-| <font color="#8B1E3F"><strong>SP</strong></font> | Writing - Original Draft Preparation |
-| <font color="#8B1E3F"><strong>SP</strong></font>, <font color="#1F4E79"><strong>DW</strong></font>, <font color="#6A4C93"><strong>BSH</strong></font> | Writing - Review & Editing |
-| <font color="#1F4E79"><strong>DW</strong></font>, <font color="#6A4C93"><strong>BSH</strong></font> | Supervision |
-| <font color="#1F4E79"><strong>DW</strong></font>, <font color="#6A4C93"><strong>BSH</strong></font> | Resources |
+| 🟣 DW<br>🟢 SP | Conceptualization |
+| 🟢 SP | Formal analysis |
+| 🟢 SP | Data curation |
+| 🟢 SP | Plotting, visualizations, figures |
+| 🟢 SP | Writing - Original Draft Preparation |
+| 🟢 SP<br>🟣 DW<br>🟡 BSH | Writing - Review & Editing |
+| 🟣 DW<br>🟡 BSH | Supervision |
+| 🟣 DW<br>🟡 BSH | Resources |
 |  | **Investigation (experimental/methodology)** |
-| <font color="#8B1E3F"><strong>SP</strong></font> | Fly rearing, crossing |
-| <font color="#8B1E3F"><strong>SP</strong></font> | (sc)RNA-seq analysis |
-| <font color="#8B1E3F"><strong>SP</strong></font> | Ca<sup>2+</sup> imaging & analysis |
-| <font color="#9A3412"><strong>MNG</strong></font> | Sensillum microinjection & electrophysiological recording |
-| <font color="#8B1E3F"><strong>SP</strong></font> | Analysis of microinjection data |
-| <font color="#8B1E3F"><strong>SP</strong></font> | software; *R* scripts (automated processing/plotting of imaging data) |
-| <font color="#0F5B55"><strong>SK</strong></font> | Ca<sup>2+</sup> imaging reagent prep |
+| 🟢 SP | Fly rearing, crossing |
+| 🟢 SP | (sc)RNA-seq analysis |
+| 🟢 SP | Ca<sup>2+</sup> imaging & analysis |
+| 🔵 MNG | Sensillum microinjection & electrophysiological recording |
+| 🟢 SP | Analysis of microinjection data |
+| 🟢 SP | software; *R* scripts (automated processing/plotting of imaging data) |
+| 🟤 SK | Ca<sup>2+</sup> imaging reagent prep |
 
 | Funding |
 |---|
